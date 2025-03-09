@@ -1,0 +1,51 @@
+.navbar {
+  background-color: #009fe3;
+}
+
+.navbar-brand img {
+  height: 50px;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.donate-btn {
+  background-color: white;
+  color: #009fe3;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
+
+.offcanvas {
+  background-color: #009fe3;
+}
+
+.offcanvas a {
+  color: white;
+  font-size: 18px;
+}
+
+.hero-section {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background: url("../assets/img/hero-bg.jpg");
+  height: 400px;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.map-index {
+  width: 100%;
+  height: 400px;
+  background: #ccc;
+}
